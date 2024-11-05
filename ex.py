@@ -1,1 +1,1 @@
-예시
+import numpy as np
